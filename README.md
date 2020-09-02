@@ -1,6 +1,11 @@
 ### Hi there 👋
-
-
+---
+### 📶 Skills
+- Javascript. React;
+- CSS;
+- HTML;
+- Git, Github;
+- node.js;
 ---
   ### 📫  Where to find me
 - [Facebook](https://facebook.com/nick.nelidov) 💁‍♂️
