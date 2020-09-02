@@ -1,4 +1,5 @@
 ### Hi there 👋
+![rating](https://img.shields.io/badge/rating-4%2F5-green)
 
 
   ### 📫  Where to find me
