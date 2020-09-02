@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-![mailbox](https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png)  ### Where to find me
+  ### 📫  Where to find me
 - [Facebook](https://facebook.com/nelidov) 😏
 - [Telegram](https://telegram.com/cocakolya) 🐤
 - [Instagram](https://instagram.com/nelidov) 😎
