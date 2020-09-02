@@ -4,8 +4,8 @@
 ---
   ### 📫  Where to find me
 - [Facebook](https://facebook.com/nick.nelidov) 💁‍♂️
-- [Telegram](https://telegram.com/cocakolya) 💁‍♂️✌️📱
-- [Instagram](https://instagram.org/nelidov) 💁‍♂️✌️
+- [Telegram](https://telegram.com/cocakolya) 📱
+- [Instagram](https://instagram.org/nelidov) ✌️
 
 
 ![rating](https://img.shields.io/badge/rating-4%2F5-green)
