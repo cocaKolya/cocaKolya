@@ -2,9 +2,9 @@
 
 
   ### 📫  Where to find me
-- [Facebook](https://facebook.com/nelidov) 😏
+- [Facebook](https://facebook.com/nick.nelidov) 😏
 - [Telegram](https://telegram.com/cocakolya) 🐤
-- [Instagram](https://instagram.com/nelidov) 😎
+- [Instagram](https://instagram.org/nelidov) 😎
 
 <!--
 **cocaKolya/cocaKolya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
