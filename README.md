@@ -1,12 +1,14 @@
 ### Hi there 👋
-![rating](https://img.shields.io/badge/rating-4%2F5-green)
 
 
+---
   ### 📫  Where to find me
-- [Facebook](https://facebook.com/nick.nelidov) 😏
-- [Telegram](https://telegram.com/cocakolya) 🐤
-- [Instagram](https://instagram.org/nelidov) 😎
+- [Facebook](https://facebook.com/nick.nelidov) 💁‍♂️
+- [Telegram](https://telegram.com/cocakolya) 💁‍♂️✌️📱
+- [Instagram](https://instagram.org/nelidov) 💁‍♂️✌️
 
+
+![rating](https://img.shields.io/badge/rating-4%2F5-green)
 <!--
 **cocaKolya/cocaKolya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
