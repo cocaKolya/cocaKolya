@@ -12,11 +12,9 @@ Soon, there will be many projects and activity. So stay tuned
 - [Facebook](https://facebook.com/nick.nelidov) 💁‍♂️
 - [Telegram](https://telegram.com/cocakolya) 📱
 - [Instagram](https://instagram.org/nelidov) ✌️
-
+---
 
 [![cocaKolya's github stats](https://github-readme-stats.vercel.app/api?username=cocaKolya)](https://github.com/anuraghazra/github-readme-stats)
-
-
 ![rating](https://img.shields.io/badge/rating-4%2F5-green)
 <!--
 **cocaKolya/cocaKolya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
