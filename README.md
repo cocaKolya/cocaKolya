@@ -10,7 +10,7 @@ Soon, there will be many projects and activity. So stay tuned
 ---
   ### 📫  Where to find me
 - [Facebook](https://facebook.com/nick.nelidov) 💁‍♂️
-- [Telegram](https://telegram.com/cocakolya) 📱
+- [Telegram](https://telegram.org/cocakolya) 📱
 - [Instagram](https://instagram.org/nelidov) ✌️
 ---
 
