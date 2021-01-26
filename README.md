@@ -8,12 +8,13 @@ Soon, there will be many projects and activity. So stay tuned
 - Git, Github;
 - node.js;
 ---
+<!--
   ### 📫  Where to find me
 - [Facebook](https://facebook.com/nick.nelidov) 💁‍♂️
 - [Telegram](https://telegram.org/cocakolya) 📱
 - [Instagram](https://instagram.org/nelidov) ✌️
 ---
-
+-->
 [![cocaKolya's github stats](https://github-readme-stats.vercel.app/api?username=cocaKolya)](https://github.com/anuraghazra/github-readme-stats)
 ![rating](https://img.shields.io/badge/rating-4%2F5-green)
 <!--
