@@ -2,16 +2,23 @@
 I am a newbie front-end developer. I don't have much experience, but a lot of desire and diligence.  
 Soon, there will be many projects and activity. So stay tuned
 ### 📶 Skills
-- Javascript. React;
+- Javascript;
 - CSS;
 - HTML;
-- Git, Github;
-- node.js;
+- Git;
+- Node.js;
+- PostgreSQL;
+- Express;
+- Sequelize;
+- Redis;
+- React;
+- Redux;
+- Styled-components;
+- Storybook;
 ---
   ### 📫  Where to find me
-- [Facebook](https://facebook.com/nick.nelidov) 💁‍♂️
-- [Telegram](https://telegram.org/cocakolya) 📱
-- [Email](nelidovn@gmail.com) ✌️
+- [Telegram](https://telegram.org/neltg) 📱
+- Email nelidovn@gmail.com 💁‍♂️
 ---
 [![cocaKolya's github stats](https://github-readme-stats.vercel.app/api?username=cocaKolya)](https://github.com/anuraghazra/github-readme-stats)
 ![rating](https://img.shields.io/badge/rating-4%2F5-green)
