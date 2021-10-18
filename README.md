@@ -1,7 +1,6 @@
 ## Hi there 👋
-I am a newbie front-end developer. I don't have much experience, but a lot of desire and diligence.  
-Soon, there will be many projects and activity. So stay tuned
-### 📶 Skills
+I am Kolya. And I am a JavaScript Developer! 
+### 📶 My Skills
 - Javascript;
 - CSS;
 - HTML;
