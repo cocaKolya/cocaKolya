@@ -19,7 +19,7 @@ I am Kolya. And I am a JavaScript Developer!
 ---
   ### 📫  Where to find me
 - [Telegram](https://telegram.org/solarbonus) 📱
-- Email nelidovn@gmail.com 💁‍♂️
+- nelidovn@gmail.com 💁‍♂️
 ---
 [![cocaKolya's github stats](https://github-readme-stats.vercel.app/api?username=cocaKolya)](https://github.com/anuraghazra/github-readme-stats)
 ![rating](https://img.shields.io/badge/rating-4%2F5-green)
