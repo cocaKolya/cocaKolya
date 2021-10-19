@@ -2,9 +2,8 @@
 I am Kolya. And I am a JavaScript Developer! 
 ### 📶 My Skills
 - Javascript;
-- CSS;
-- HTML;
-- Git;
+- React;
+- Redux;
 - Node.js;
 - PostgreSQL;
 - Express;
@@ -14,6 +13,9 @@ I am Kolya. And I am a JavaScript Developer!
 - Redux;
 - Styled-components;
 - Storybook;
+- CSS;
+- HTML;
+- Git;
 ---
   ### 📫  Where to find me
 - [Telegram](https://telegram.org/solarbonus) 📱
