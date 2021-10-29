@@ -21,8 +21,8 @@ I am Kolya. And I am a JavaScript Developer!
 - [Telegram](https://telegram.org/solarbonus) 📱
 - nelidovn@gmail.com 💁‍♂️
 ---
-[![cocaKolya's github stats](https://github-readme-stats.vercel.app/api?username=cocaKolya)](https://github.com/anuraghazra/github-readme-stats)
-![rating](https://img.shields.io/badge/rating-4%2F5-green)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cocaKolya)](https://github.com/cocaKolya/github-readme-stats) ![AGithub stats](https://github-readme-stats.vercel.app/api?username=cocaKolya&show_icons=true&theme=default)
+
 <!--
 **cocaKolya/cocaKolya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
