@@ -2,6 +2,8 @@
 I am Kolya. And I am a JavaScript Developer! 
 ### 📶 My Skills
 - Javascript;
+- Typescript;
+- NextJS;
 - React;
 - Redux;
 - Node.js;
@@ -9,8 +11,8 @@ I am Kolya. And I am a JavaScript Developer!
 - Express;
 - Sequelize;
 - Redis;
-- React;
-- Redux;
+- Contentful;
+- MUI;
 - Styled-components;
 - Storybook;
 - CSS;
