@@ -7,20 +7,20 @@ I am Kolya. And I am a JavaScript Developer!
 - React;
 - Redux;
 - Node.js;
-- PostgreSQL;
+- gRPC;
+- Mongo DB;
+- SQL;
 - Express;
-- Sequelize;
-- Redis;
-- Contentful;
+- Solidity;
 - MUI;
-- Styled-components;
 - Storybook;
 - CSS;
+- SASS;
 - HTML;
 - Git;
 ---
   ### 📫  Where to find me
-- [Telegram](https://telegram.org/solarbonus) 📱
+<!-- - [Telegram](https://telegram.org/solarbonus) 📱 -->
 - nelidovn@gmail.com 💁‍♂️
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cocaKolya)](https://github.com/cocaKolya/github-readme-stats) ![AGithub stats](https://github-readme-stats.vercel.app/api?username=cocaKolya&show_icons=true&theme=default)
