@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am Kolya. And I am a JavaScript Developer! 
+I am Kolya. And I am a Frontend Developer! 
 ### 📶 My Skills
 - Javascript;
 - Typescript;
