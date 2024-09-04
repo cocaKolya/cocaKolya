@@ -8,22 +8,18 @@ I am Kolya. And I am a Frontend Developer!
 - Redux;
 - Node.js;
 - gRPC;
+- Prisma ORM;
 - Mongo DB;
+- Postgresql;
 - SQL;
-- Express;
-- Solidity;
 - MUI;
-- Storybook;
 - CSS;
-- SASS;
+- CSS Preprocessers;
 - HTML;
 - Git;
+- Solidity;
 ---
-  ### 📫  Where to find me
-<!-- - [Telegram](https://telegram.org/solarbonus) 📱 -->
-- nelidovn@gmail.com 💁‍♂️
----
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cocaKolya)](https://github.com/cocaKolya/github-readme-stats) ![AGithub stats](https://github-readme-stats.vercel.app/api?username=cocaKolya&show_icons=true&theme=default)
+
 
 <!--
 **cocaKolya/cocaKolya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
